@@ -1,0 +1,4 @@
+- 👋 Hi, I’m el! a computing science student from scotland!
+- 👀 I’m interested in accessibility in the world of software development and ensuring that the finished experience of any development is inclusive of all needs, wants and desires.
+- 🌱 I’m currently working on my honours project for my degree!
+- 📫 I'm in a stress ball of uni work at the moment, so pls don't hate me for taking time to reply to e-mails, messages, etc...
